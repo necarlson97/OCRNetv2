@@ -6,6 +6,9 @@ It also features my handwritten, simplistic game engine.
 Checkout the 'Rough Cut' for a sampler of how we used clips, and this code, in our project.
 NOTE: There is just the first part of the video, there is a second portion of interviews and conversations which has not been edited into the video yet. This video does not represent the final product in any way, and and all aspects are subject to change.
 
+Video & Script:
+https://drive.google.com/drive/folders/1gfGQB-icrVm-hQaAvGEZCgS14OHfVQ6G?usp=sharing
+
 <h2> Controls </h2>
 Press 'space' to advance through the stages, and see the networkd train and test itself.
 
